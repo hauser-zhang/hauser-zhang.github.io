@@ -1,2 +1,2 @@
 # Homepage
-This is my personal website: cen-jun.com. Go live on August 29, 2021.
+This is my personal website: hauser-zhang.com. Go live on November 8, 2025.
